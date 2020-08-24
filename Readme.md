@@ -1,6 +1,7 @@
 # Arquivos de estudos gerais
 
 * **[Regras de associacao / Association Rules (Recomendation systems)](https://github.com/caiobellezi/estudos/blob/master/Estudos_Regras_de_associacao.ipynb)**
+* **[Arvore de Decisao + GridSearch (Minas vs Rochas) / Decision Tree + GridSearch (Mines vs Rocks)](https://github.com/caiobellezi/estudos/blob/master/Estudos_GridSearch_Arvores_de_decisao_(Sonar).ipynb)**
 * **[Arvore de Decisão(Clima) / Decision Tree (Weather)](https://github.com/caiobellezi/estudos/blob/master/Estudos_Arvore_de_Decisao_(Decision_Tree)_Clima.ipynb)**
 * **[Arvore de Decisão(Iris) / Decision Tree (Iris)](https://github.com/caiobellezi/estudos/blob/master/Estudos_Iris_DecisionTree.ipynb)**
 * **Visualização / Visualisation**
